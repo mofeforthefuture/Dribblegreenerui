@@ -1,0 +1,12 @@
+{
+  "name": "DribbleGreener",
+  "displayName": "DribbleGreener",
+  "expo": {
+    "name": "DribbleGreener",
+    "slug": "DribbleGreener",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
